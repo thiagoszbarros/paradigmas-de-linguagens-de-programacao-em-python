@@ -1,0 +1,7 @@
+print(123456)
+print('valor', 123456)
+print('valor = {}'.format(12345))
+print(f'valor = {123456}')
+print("valor", 123456)
+print("valor = {}".format(12345))
+print(f"valor = {123456}")
